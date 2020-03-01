@@ -1,0 +1,7 @@
+{
+  "name": "jws-test",
+  "private": true,
+  "dependencies": {
+    "jws": "^4.0.0"
+  }
+}
