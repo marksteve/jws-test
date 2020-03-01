@@ -8,4 +8,5 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 node sign.js | python validate.py
+python sign.py | node validate.js
 ```
