@@ -7,4 +7,3 @@ const sig = jws.sign({
   secret: SECRET_KEY
 });
 console.log(sig);
-process.exit();
